@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.13" />
+        <entry key="../../../Library/Android/sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.18342391304347827" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.11" />
       </map>
     </option>
   </component>
