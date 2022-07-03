@@ -7,32 +7,32 @@
     <EditText
         android:id="@+id/activity_formulario_nome_aluno"
         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_margin="8dp"
-        android:hint="Nome"
-        android:inputType="textCapWords"
-        android:layout_height="wrap_content" />
+        android:hint="@string/nomeAluno_hint"
+        android:inputType="textCapWords" />
 
     <EditText
         android:id="@+id/activity_formulario_telefone_aluno"
         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_margin="8dp"
-        android:hint="Telefone"
-        android:inputType="phone"
-        android:layout_height="wrap_content" />
+        android:hint="@string/telAluno_hint"
+        android:inputType="phone" />
 
     <EditText
         android:id="@+id/activity_formulario_email_aluno"
         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_margin="8dp"
-        android:hint="Email"
-        android:inputType="textEmailAddress"
-        android:layout_height="wrap_content" />
+        android:hint="@string/emailAluno_hint"
+        android:inputType="textEmailAddress" />
 
     <Button
         android:id="@+id/activity_formulario_botao_salvar"
         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_margin="8dp"
-        android:text="Salvar"
-        android:layout_height="wrap_content" />
+        android:text="@string/btn_salvarAluno" />
 
 </LinearLayout>
